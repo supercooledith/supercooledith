@@ -5,7 +5,7 @@ my name is LiangShuang, my english name is Edith,you can also call me supercool.
 - 😉 my faivorite idol is Barbie
 - 🍍 my favorite fruit is pineapple
 - 🌺 my personal [website](https://www.liangshuangsupercool.cn/)
-- 💑 my boy friend [liyih2000](https://github.com/liyih2000)
+- 👫 my boy friend [liyih2000](https://github.com/liyih2000)
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=supercooledith&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=false&theme=dracula" />
 
