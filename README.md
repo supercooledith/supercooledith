@@ -8,7 +8,7 @@ my name is LiangShuang, my english name is Edith,you can also call me supercool.
 - 😉 my faivorite idol is Barbie
 - 🍍 my favorite fruit is pineapple
 - 🌺 my personal [website](https://www.liangshuangsupercool.cn/)
-- 📫 my personal [email](liangshuangedith@gmail.com)
+- 📫 my personal email: liangshuangedith@gmail.com
 - ⚡ my personal [linkedin](https://www.linkedin.com/in/shuang-liang-75942b281/)
 
 ## Programming
