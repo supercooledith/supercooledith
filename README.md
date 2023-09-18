@@ -1,10 +1,15 @@
 ### Hi there 👋😜🤗
+
+
+
 my name is LiangShuang, my english name is Edith,you can also call me supercool.
 - 👩‍💻 I’m currently working at [HPC-AI tech](https://www.hpc-ai.tech/)
 - 😅 I’m currently studing at [BUAA](https://www.buaa.edu.cn/)
 - 😉 my faivorite idol is Barbie
 - 🍍 my favorite fruit is pineapple
 - 🌺 my personal [website](https://www.liangshuangsupercool.cn/)
+- 📫 my personal [email](liangshuangedith@gmail.com)
+- ⚡ my personal [linkedin](https://www.linkedin.com/in/shuang-liang-75942b281/)
 
 ## Programming
 <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/c.svg' width='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/cpp.svg' width='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/python2.png' height='30'/> <img src = 'https://github.com/alimpk/raw/blob/main/logo/tech/git.svg' width='30'/> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/vivado.png' height=30> <img src='https://github.com/alimpk/raw/blob/main/logo/tech/quartusprime.png' height=30>
@@ -34,5 +39,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-alimpk-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://linkedin.com/in/alimpk)
+[![Linkedin Badge](https://img.shields.io/badge/-alimpk-blue?style=flat-square&logo=Linkedin&logoColor=whi)](https://www.linkedin.com/in/shuang-liang-75942b281/)
 
 -->
