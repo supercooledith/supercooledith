@@ -3,7 +3,7 @@
 
 
 my name is LiangShuang, my english name is Edith,you can also call me supercool.
-- 👩‍💻 I’m currently working at [HPC-AI tech](https://www.hpc-ai.tech/)
+- 👩‍💻 I’m currently working at [Infinigence AI]([https://www.hpc-ai.tech/](https://cloud.infini-ai.com/platform/ai))
 - 😅 I’m currently studing at [BUAA](https://www.buaa.edu.cn/)
 - 😉 my faivorite idol is Barbie
 - 🍍 my favorite fruit is pineapple
