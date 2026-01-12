@@ -27,13 +27,13 @@ detailed text and images：https://www.liangshuangsupercool.com/2022/09/09/LS'PR
 * 全流程实操：从各类传感器原理调研、芯片手册深度研读，到精密电路设计（电容电感匹配）及 PCB 绘制 。
 * 嵌入式开发：熟练掌握 C 语言及嵌入式编程，在国家级及校级科技竞赛中多次获奖 。
 
+详细图文介绍：https://www.liangshuangsupercool.com/2022/09/09/LS'PROJECTS/
+
 <img src = 'https://github.com/alimpk/raw/blob/main/logo/company/xilinx.png' width='80'/>  **Academic Deep Dive: FPGA & Hardware-Software Co-design (2021 - 2024)**
 
 At Beihang University, my master's research focused on "Hardware Acceleration of Transformer Algorithms on FPGA Platforms".
 * Technical Core: Specialized in Verilog, pipeline design, and memory access optimization.
 * Design Philosophy: Developed a profound understanding of the symbiotic relationship between software and hardware—designing optimized hardware to carry advanced algorithms while tailoring algorithms to hardware constraints.
-
-详细图文介绍：https://www.liangshuangsupercool.com/2022/09/09/LS'PROJECTS/
 
 **学术深耕：FPGA 与 Transformer 软硬件协同 (2021 - 2024)**
 
