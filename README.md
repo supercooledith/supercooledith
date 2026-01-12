@@ -19,6 +19,8 @@ During my undergraduate years at Chongqing University, I immersed myself in elec
 * End-to-End Practice: Mastered the full lifecycle of hardware development, including sensor integration, data sheet analysis, circuit design (RC matching), PCB layout, and embedded programming.
 * Award-Winning: Recognized with multiple national and provincial awards in technology competitions.
 
+detailed text and images：https://www.liangshuangsupercool.com/2022/09/09/LS'PROJECTS/
+
 **萌芽探索：电子设计与硬件基石 (2017 - 2021)**
 
 在重庆大学本科期间，我深耕电子信息领域，频繁参与各类大学生电子设计竞赛 。这段经历让我完成了从理论到实践的全栈蜕变：
@@ -30,6 +32,8 @@ During my undergraduate years at Chongqing University, I immersed myself in elec
 At Beihang University, my master's research focused on "Hardware Acceleration of Transformer Algorithms on FPGA Platforms".
 * Technical Core: Specialized in Verilog, pipeline design, and memory access optimization.
 * Design Philosophy: Developed a profound understanding of the symbiotic relationship between software and hardware—designing optimized hardware to carry advanced algorithms while tailoring algorithms to hardware constraints.
+
+详细图文介绍：https://www.liangshuangsupercool.com/2022/09/09/LS'PROJECTS/
 
 **学术深耕：FPGA 与 Transformer 软硬件协同 (2021 - 2024)**
 
